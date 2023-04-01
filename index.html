@@ -25,8 +25,8 @@
   <script>
     //https://jsonkeeper.com/b/4VST
     Promise.all([
-      fetch('https://www.jsonkeeper.com/b/0J2J'),
-      fetch('https://www.jsonkeeper.com/b/4VST')
+      fetch('https://notwatermango.github.io/choropleth-map-of-average-employee-income-in-indonesia/jsons/dataupah.json'),
+      fetch('https://notwatermango.github.io/choropleth-map-of-average-employee-income-in-indonesia/jsons/indonesia.json')
     ])
       .then((allres) => {
         return Promise.all(allres.map((res) => res.json()));
@@ -65,7 +65,6 @@
           .style("background-color", "lightgreen")
           .style("white-space", "nowrap")
           .html('')
-
 
         function mouseover() {
           d3.select(this)
@@ -176,7 +175,6 @@
       font-size: 0.8rem;
     }
   </style>
-
   <div class="outer">
     <div class="middle">
       <div class="inner">
@@ -187,7 +185,6 @@
         <p>by <a href="https://github.com/notwatermango" target="_blank">Danzel Artamadja</a>, built using <a
             href="https://d3js.org/" target="_blank">D3</a>.</p>
         <div id="svg-container"></div>
-
       </div>
     </div>
   </div>
