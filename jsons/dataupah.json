@@ -1,0 +1,138 @@
+[
+  {
+    "province": "Aceh",
+    "income": 2327990.4099950874
+  },
+  {
+    "province": "Sumatera Utara",
+    "income": 2576441.6200761055
+  },
+  {
+    "province": "Sumatera Barat",
+    "income": 2655766.924747403
+  },
+  {
+    "province": "Riau ",
+    "income": 2889690.9367796867
+  },
+  {
+    "province": "Jambi",
+    "income": 2520767.414794776
+  },
+  {
+    "province": "Sumatera Selatan",
+    "income": 2630695.1652248767
+  },
+  {
+    "province": "Bengkulu",
+    "income": 2737834.1741983797
+  },
+  {
+    "province": "Lampung",
+    "income": 2322727.6201626803
+  },
+  {
+    "province": "Kepulauan Bangka Belitung",
+    "income": 2969145.8288744986
+  },
+  {
+    "province": "Kepulauan Riau",
+    "income": 4155519.5007827226
+  },
+  {
+    "province": "DKI Jakarta",
+    "income": 5255823.695202253
+  },
+  {
+    "province": "Jawa Barat",
+    "income": 3533612.7898955694
+  },
+  {
+    "province": "Jawa Tengah",
+    "income": 2200715.8450818127
+  },
+  {
+    "province": "DI Yogyakarta",
+    "income": 2462582.9675300126
+  },
+  {
+    "province": "Jawa Timur",
+    "income": 2638751.596647359
+  },
+  {
+    "province": "Banten",
+    "income": 4370278.232534321
+  },
+  {
+    "province": "Bali",
+    "income": 3002534.1747646127
+  },
+  {
+    "province": "Nusa Tenggara Barat",
+    "income": 2218413.695132733
+  },
+  {
+    "province": "Nusa Tenggara Timur",
+    "income": 2100927.482709244
+  },
+  {
+    "province": "Kalimantan Barat",
+    "income": 2645919.8379501966
+  },
+  {
+    "province": "Kalimantan Tengah",
+    "income": 3195306.2295133355
+  },
+  {
+    "province": "Kalimantan Selatan",
+    "income": 2898485.704392357
+  },
+  {
+    "province": "Kalimantan Timur",
+    "income": 3963731.5009664623
+  },
+  {
+    "province": "Kalimantan Utara",
+    "income": 3427758.7680015317
+  },
+  {
+    "province": "Sulawesi Utara",
+    "income": 3240216.74996814
+  },
+  {
+    "province": "Sulawesi Tengah",
+    "income": 2605724.076754263
+  },
+  {
+    "province": "Sulawesi Selatan",
+    "income": 2876951.5868342076
+  },
+  {
+    "province": "Sulawesi Tenggara",
+    "income": 2831990.538258112
+  },
+  {
+    "province": "Gorontalo",
+    "income": 2551300.665625098
+  },
+  {
+    "province": "Sulawesi Barat",
+    "income": 2340501.680194732
+  },
+  {
+    "province": "Maluku",
+    "income": 2719294.4641613727
+  },
+  {
+    "province": "Maluku Utara",
+    "income": 2938080.7059976053
+  },
+  {
+    "province": "Papua Barat",
+    "income": 3283235.304727327
+  },
+  {
+    "province": "Papua",
+    "income": 3954382.4059972954
+  }
+]
